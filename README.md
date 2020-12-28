@@ -1,4 +1,4 @@
-# Mid-_Bootcamp_Project
+# Real_Estate_Project
 
 Objective: The task is to build a model that will predict the price of a house based on features provided in the dataset. it is also key to understand which factors are responsible for higher property values. 
 
